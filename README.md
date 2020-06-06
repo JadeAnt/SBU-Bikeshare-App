@@ -1,5 +1,8 @@
 # SBU-Bikeshare-App
-Description: 
+Sample UI Design for the SBU Bikeshare App Project.
+
+## Description
+Purpose of this is to create an application to allow for the access of bikestations on the SBU Campus without being physically present.
 
 
 ## Images and Gifs
