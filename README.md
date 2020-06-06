@@ -1,4 +1,4 @@
-# SBU-Bikeshare-App
+# SBU Bikeshare App
 Sample UI Design for the SBU Bikeshare App Project.
 
 ## Description
