@@ -4,6 +4,7 @@ Sample implementation of the SBU Bikeshare App Project built with Flutter includ
 ## Description
 Purpose of this is to create an application to allow for the access of bikestations on the SBU Campus without being physically present.
 
+## Tasks
 
 ## Images and Gifs
 
